@@ -1,2 +1,2 @@
 # sitemap
-Sitemap generator for go
+Sitemap generator for golang
